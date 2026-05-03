@@ -9,3 +9,10 @@ def add(a, b):
 def subtract(a, b):
     """Subtract b from a."""
     return a - b
+
+
+def divide(a, b):
+    """Divide a by b. Raises ZeroDivisionError if b is 0."""
+    if b == 0:
+        raise ZeroDivisionError("division by zero")
+    return a / b
