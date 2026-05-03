@@ -10,3 +10,6 @@ requires-python = ">=3.10"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[project.scripts]
+autocode-calc = "src.cli:main"
