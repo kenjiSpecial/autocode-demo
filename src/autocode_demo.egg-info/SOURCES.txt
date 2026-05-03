@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/calculator.py
+src/cli.py
+src/autocode_demo.egg-info/PKG-INFO
+src/autocode_demo.egg-info/SOURCES.txt
+src/autocode_demo.egg-info/dependency_links.txt
+src/autocode_demo.egg-info/entry_points.txt
+src/autocode_demo.egg-info/top_level.txt
+tests/test_calculator.py

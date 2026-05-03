@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: autocode-demo
+Version: 0.1.0
+Summary: Autonomous coding loop demo project
+Requires-Python: >=3.10
